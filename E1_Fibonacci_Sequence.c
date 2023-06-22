@@ -11,8 +11,6 @@ void fib(int x){
             a = b;
             b = k+b;
         }
-        
-
     }
 }
 
